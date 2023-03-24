@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.17.0",
     "@moralisweb3/next": "^2.17.0",
     "moralis": "^2.17.0",
     "next": "^13.2.4",
